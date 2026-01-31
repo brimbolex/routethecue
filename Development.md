@@ -15,7 +15,7 @@ Goal: a working patchbay with a CLI + config file
 	•	preset switching (atomic graph swap)
 	•	minimal HTTP API (/status, /presets, /apply)
 
-Phase 2 — Protocol MVP
+Phase 2 — Protocol MVP 
 
 Goal: real show inputs/outputs
 	•	OSC UDP in/out
